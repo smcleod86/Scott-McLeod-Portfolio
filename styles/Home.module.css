@@ -121,3 +121,23 @@
     flex-direction: column;
   }
 }
+
+.scott {
+  width: 220px
+}
+
+.reading {
+  width: 60%
+}
+
+.insplore {
+  width: 60%
+}
+
+.instructions {
+  width: 30%
+}
+
+.poo {
+  width: 30%
+}
