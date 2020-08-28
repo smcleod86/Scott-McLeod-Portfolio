@@ -13,7 +13,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Scott McLeod </h1>
           <img src="/images/Scott.JPG" alt="Amazing photo of Scott, happy, in the mountains" className={styles.scott} />
-          <p>I am a software engineer with a background in agriculture, and a love of the outdoors. I have an interest in collaborating to create solutions to complex problems using React, and MongoDB.</p>
+          <p>I am a software engineer with a background in agriculture, and a love of the outdoors with an interest in collaborating to create solutions to complex problems using React, and MongoDB.</p>
         </div>
         <br>
         </br>
