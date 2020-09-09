@@ -49,17 +49,15 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 10rem;
 }
 
-.title,
-.description {
-  text-align: center;
+.subtitle {
+  font-size: 1.8rem;
 }
 
-.description {
-  line-height: 1.5;
-  font-size: 1.5rem;
+.heading {
+  display: flex;
 }
 
 .code {
@@ -140,4 +138,10 @@
 
 .poo {
   width: 30%
+}
+
+.icons {
+  width: 80px;
+  height: auto;
+  flex-wrap: wrap;
 }
